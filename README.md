@@ -26,3 +26,5 @@ Por último rode.
 ```
 yarn start
 ```
+
+Testes foram feitos com Insomnia.
