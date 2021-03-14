@@ -1,0 +1,30 @@
+{
+  "name": "teste-GCB",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsnd --transpile-only --respawn --ignore-watch node_modules src/server.ts",
+    "typeorm": "tsnd ./node_modules/typeorm/cli.js"
+  },
+  "keywords": [],
+  "author": "Enzo",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^14.14.33",
+    "celebrate": "^13.0.4",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "reflect-metadata": "^0.1.13",
+    "request": "^2.88.2",
+    "soap": "^0.36.0",
+    "typeorm": "^0.2.31"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.11",
+    "@types/soap": "^0.21.0",
+    "ts-node-dev": "^1.1.6",
+    "typescript": "^4.2.3"
+  }
+}
