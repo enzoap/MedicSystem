@@ -4,6 +4,10 @@
 
 Download ou fork o repositorio para sua conta.
 
+## Thech
+- Solid
+- Clean architecture
+
 ### Prerequisites
 O que você precisa para rodar o projeto.
 
