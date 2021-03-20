@@ -1,5 +1,4 @@
-# teste-gcb
-Sistema de gerenciamento de médicos
+# Sistema de gerenciamento de médicos
 
 ## Getting Started
 
